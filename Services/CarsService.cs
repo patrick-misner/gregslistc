@@ -36,7 +36,7 @@ namespace gregslistc.Services
       original.Description = carData.Description ?? original.Description;
       original.ImgUrl = carData.ImgUrl ?? original.ImgUrl;
       original.Color = carData.Color ?? original.Color;
-      return carData;
+      return original;
     }
     internal Car Delete(string id)
     {

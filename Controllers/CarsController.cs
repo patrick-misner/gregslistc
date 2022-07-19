@@ -30,7 +30,6 @@ namespace gregslistc.Controllers
       }
       catch (Exception e)
       {
-        // NOTE FIX THIS GARBAGE
         return BadRequest(e.Message);
       }
     }

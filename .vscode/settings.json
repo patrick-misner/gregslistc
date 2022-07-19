@@ -1,5 +1,25 @@
 {
   "cSpell.words": [
     "gregslistc"
-  ]
+  ],
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#f75248",
+    "activityBar.activeBorder": "#0bf418",
+    "activityBar.background": "#f75248",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#0bf418",
+    "activityBarBadge.foreground": "#15202b",
+    "sash.hoverBorder": "#f75248",
+    "statusBar.background": "#f52417",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#f75248",
+    "statusBarItem.remoteBackground": "#f52417",
+    "statusBarItem.remoteForeground": "#e7e7e7",
+    "titleBar.activeBackground": "#f52417",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#f5241799",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "peacock.color": "#f52417"
 }
