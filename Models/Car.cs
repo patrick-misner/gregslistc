@@ -10,7 +10,7 @@ namespace gregslistc.Models
     public Car(
         string make,
         string model,
-        int year,
+        int? year,
         string description,
         string imgUrl,
         string color
